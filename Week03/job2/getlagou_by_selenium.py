@@ -325,7 +325,7 @@ if __name__ == "__main__":
         'host': '192.168.59.220',
         'port': 3306,
         'user': 'root',
-        'password': 'Easyway@iPark59220',
+        'password': '******',
         'db': 'db_week'
     }
     db = StoreDB(dbInfo, jobs_list)
